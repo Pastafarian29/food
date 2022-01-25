@@ -3,12 +3,32 @@
     <title>cauldron</title>
     <link href="https://pastafarian29.github.io/food/feed.xml" rel="self" />
     <link href="https://pastafarian29.github.io/food" />
-    <updated>2022-01-24T20:01:22-05:00</updated>
+    <updated>2022-01-24T20:10:33-05:00</updated>
     <author>
         <name>Pastafarian</name>
     </author>
     <id>https://pastafarian29.github.io/food</id>
 
+    <entry>
+        <title>再试试</title>
+        <author>
+            <name>Pastafarian</name>
+        </author>
+        <link href="https://pastafarian29.github.io/food/zai-shi-shi.html"/>
+        <id>https://pastafarian29.github.io/food/zai-shi-shi.html</id>
+
+        <updated>2022-01-24T20:10:33-05:00</updated>
+            <summary>
+                <![CDATA[
+                    能行吗
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>能行吗</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Have a try</title>
         <author>
