@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://Pastafarian29.github.io/food/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://cauldron.ink/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://Pastafarian29.github.io/food/</loc>
+<loc>https://cauldron.ink/</loc>
 </url>
 <url>
-<loc>https://Pastafarian29.github.io/food/a-try.html</loc>
+<loc>https://cauldron.ink/a-try.html</loc>
 <lastmod>2022-01-24T19:36:25-05:00</lastmod>
 </url>
 </urlset>

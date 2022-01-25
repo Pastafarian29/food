@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>cauldron</title>
-    <link href="https://Pastafarian29.github.io/food/feed.xml" rel="self" />
-    <link href="https://Pastafarian29.github.io/food" />
+    <link href="https://cauldron.ink/feed.xml" rel="self" />
+    <link href="https://cauldron.ink" />
     <updated>2022-01-24T19:36:25-05:00</updated>
     <author>
         <name>Pastafarian</name>
     </author>
-    <id>https://Pastafarian29.github.io/food</id>
+    <id>https://cauldron.ink</id>
 
     <entry>
         <title>A try</title>
         <author>
             <name>Pastafarian</name>
         </author>
-        <link href="https://Pastafarian29.github.io/food/a-try.html"/>
-        <id>https://Pastafarian29.github.io/food/a-try.html</id>
+        <link href="https://cauldron.ink/a-try.html"/>
+        <id>https://cauldron.ink/a-try.html</id>
 
         <updated>2022-01-24T19:36:25-05:00</updated>
             <summary>
