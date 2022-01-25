@@ -3,29 +3,29 @@
     <title>cauldron</title>
     <link href="https://pastafarian29.github.io/food/feed.xml" rel="self" />
     <link href="https://pastafarian29.github.io/food" />
-    <updated>2022-01-24T16:26:41-05:00</updated>
+    <updated>2022-01-24T19:36:25-05:00</updated>
     <author>
         <name>Pastafarian</name>
     </author>
     <id>https://pastafarian29.github.io/food</id>
 
     <entry>
-        <title>来，试试看</title>
+        <title>A try</title>
         <author>
             <name>Pastafarian</name>
         </author>
-        <link href="https://pastafarian29.github.io/food/laishi-shi-kan.html"/>
-        <id>https://pastafarian29.github.io/food/laishi-shi-kan.html</id>
+        <link href="https://pastafarian29.github.io/food/a-try.html"/>
+        <id>https://pastafarian29.github.io/food/a-try.html</id>
 
-        <updated>2022-01-24T16:26:41-05:00</updated>
+        <updated>2022-01-24T19:36:25-05:00</updated>
             <summary>
                 <![CDATA[
-                    Try to creat a website in coding club
+                    锟斤拷烫烫烫
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                <p>Try to creat a website in coding club</p>
+                <p>锟斤拷烫烫烫</p>
             ]]>
         </content>
     </entry>
