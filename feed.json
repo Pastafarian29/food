@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "cauldron",
     "description": "",
-    "home_page_url": "https:///Users/jessica/Documents/Publii/sites/cauldron/preview/index.html",
-    "feed_url": "https:///Users/jessica/Documents/Publii/sites/cauldron/preview/index.html/feed.json",
+    "home_page_url": "https://Pastafarian29.github.io/food",
+    "feed_url": "https://Pastafarian29.github.io/food/feed.json",
     "user_comment": "",
     "author": {
         "name": "Pastafarian"
     },
     "items": [
         {
-            "id": "https:///Users/jessica/Documents/Publii/sites/cauldron/preview/index.html/a-try.html",
-            "url": "https:///Users/jessica/Documents/Publii/sites/cauldron/preview/index.html/a-try.html",
+            "id": "https://Pastafarian29.github.io/food/a-try.html",
+            "url": "https://Pastafarian29.github.io/food/a-try.html",
             "title": "A try",
             "summary": "锟斤拷烫烫烫",
             "content_html": "<p>锟斤拷烫烫烫</p>",
