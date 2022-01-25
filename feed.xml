@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>cauldron</title>
-    <link href="https://pastafarian29.github.io/gh-pages/feed.xml" rel="self" />
-    <link href="https://pastafarian29.github.io/gh-pages" />
+    <link href="https://cauldron.ink/feed.xml" rel="self" />
+    <link href="https://cauldron.ink" />
     <updated>2022-01-24T16:26:41-05:00</updated>
     <author>
         <name>Pastafarian</name>
     </author>
-    <id>https://pastafarian29.github.io/gh-pages</id>
+    <id>https://cauldron.ink</id>
 
     <entry>
         <title>来，试试看</title>
         <author>
             <name>Pastafarian</name>
         </author>
-        <link href="https://pastafarian29.github.io/gh-pages/laishi-shi-kan.html"/>
-        <id>https://pastafarian29.github.io/gh-pages/laishi-shi-kan.html</id>
+        <link href="https://cauldron.ink/laishi-shi-kan.html"/>
+        <id>https://cauldron.ink/laishi-shi-kan.html</id>
 
         <updated>2022-01-24T16:26:41-05:00</updated>
             <summary>

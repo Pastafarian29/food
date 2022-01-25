@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "cauldron",
     "description": "",
-    "home_page_url": "https://pastafarian29.github.io/gh-pages",
-    "feed_url": "https://pastafarian29.github.io/gh-pages/feed.json",
+    "home_page_url": "https://cauldron.ink",
+    "feed_url": "https://cauldron.ink/feed.json",
     "user_comment": "",
     "author": {
         "name": "Pastafarian"
     },
     "items": [
         {
-            "id": "https://pastafarian29.github.io/gh-pages/laishi-shi-kan.html",
-            "url": "https://pastafarian29.github.io/gh-pages/laishi-shi-kan.html",
+            "id": "https://cauldron.ink/laishi-shi-kan.html",
+            "url": "https://cauldron.ink/laishi-shi-kan.html",
             "title": "来，试试看",
             "summary": "Try to creat a website in coding club",
             "content_html": "<p>Try to creat a website in coding club</p>",
