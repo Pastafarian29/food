@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>cauldron</title>
-    <link href="https://github.com/Pastafarian29/food.git/feed.xml" rel="self" />
-    <link href="https://github.com/Pastafarian29/food.git" />
+    <link href="https://pastafarian29.github.io/food/feed.xml" rel="self" />
+    <link href="https://pastafarian29.github.io/food" />
     <updated>2022-01-24T16:26:41-05:00</updated>
     <author>
         <name>Pastafarian</name>
     </author>
-    <id>https://github.com/Pastafarian29/food.git</id>
+    <id>https://pastafarian29.github.io/food</id>
 
     <entry>
         <title>来，试试看</title>
         <author>
             <name>Pastafarian</name>
         </author>
-        <link href="https://github.com/Pastafarian29/food.git/laishi-shi-kan.html"/>
-        <id>https://github.com/Pastafarian29/food.git/laishi-shi-kan.html</id>
+        <link href="https://pastafarian29.github.io/food/laishi-shi-kan.html"/>
+        <id>https://pastafarian29.github.io/food/laishi-shi-kan.html</id>
 
         <updated>2022-01-24T16:26:41-05:00</updated>
             <summary>

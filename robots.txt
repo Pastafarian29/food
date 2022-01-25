@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/Pastafarian29/food.git/sitemap.xml
+Sitemap: https://pastafarian29.github.io/food/sitemap.xml
