@@ -10,9 +10,9 @@
     },
     "items": [
         {
-            "id": "https://pastafarian29.github.io/food/a-try.html",
-            "url": "https://pastafarian29.github.io/food/a-try.html",
-            "title": "A try",
+            "id": "https://pastafarian29.github.io/food/have-a-try.html",
+            "url": "https://pastafarian29.github.io/food/have-a-try.html",
+            "title": "Have a try",
             "summary": "锟斤拷烫烫烫",
             "content_html": "<p>锟斤拷烫烫烫</p>",
             "author": {
@@ -20,8 +20,8 @@
             },
             "tags": [
             ],
-            "date_published": "2022-01-24T19:36:25-05:00",
-            "date_modified": "2022-01-24T19:36:25-05:00"
+            "date_published": "2022-01-24T20:01:22-05:00",
+            "date_modified": "2022-01-24T20:01:22-05:00"
         }
     ]
 }
